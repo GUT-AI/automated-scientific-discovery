@@ -33,4 +33,4 @@ Using Dynamical Systems
 
 **2022**
 
-- `Automated discovery of fundamental variables hidden in experimental data. In Nature Computational Science <http://generalroboticslab.com/assets/files/NSV_paper.pdf>`_
+- `Automated discovery of fundamental variables hidden in experimental data <http://generalroboticslab.com/assets/files/NSV_paper.pdf>`_
