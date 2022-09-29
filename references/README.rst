@@ -13,7 +13,7 @@ References
 
 |
 
-Most of the methods below use *Self-Supervised Learning* for the stage of *Preprocessing*.
+Most of the methods below use *Self-Supervised Learning* (for the stage of Preprocessing) in order to achieve *representation disentanglement*.
 
 
 Using model-based Reinforcement Learning
@@ -33,6 +33,11 @@ Using Dynamical Systems
 **2016**
 
 - `Kernel Learning for Dynamic Texture Synthesis <https://www.researchgate.net/profile/Shujian-Yu/publication/308772804_Kernel_Learning_for_Dynamic_Texture_Synthesis/links/5aa94130458515178818a7c7/Kernel-Learning-for-Dynamic-Texture-Synthesis.pdf>`_
+
+**2019**
+
+- `VideoBERT: A Joint Model for Video and Language Representation Learning <https://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_VideoBERT_A_Joint_Model_for_Video_and_Language_Representation_Learning_ICCV_2019_paper.pdf>`_
+- `Self-Supervised Learning by Cross-Modal Audio-Video Clustering <https://arxiv.org/pdf/1911.12667.pdf>`_
 
 **2021**
 
