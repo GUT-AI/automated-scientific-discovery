@@ -12,3 +12,22 @@ References
 .. contents:: **Table of Contents**
 
 |
+
+Using model-based Reinforcement Learning
+----------------------------------------
+
+**2018**
+
+- `Recall Traces: Backtracking Models for Efficient Reinforcement Learning <https://arxiv.org/pdf/1804.00379.pdf>`_
+
+**2019**
+
+- `Task-Agnostic Dynamics Priors for Deep Reinforcement Learning <https://arxiv.org/pdf/1905.04819.pdf>`_
+
+Using Dynamical Systems
+-----------------------
+
+**2021**
+
+- `Discovering State Variables Hidden in Experimental Data <https://arxiv.org/pdf/2112.10755.pdf>`_
+- `Automated discovery of fundamental variables hidden in experimental data. In Nature Computational Science <http://generalroboticslab.com/assets/files/NSV_paper.pdf>`_
