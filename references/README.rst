@@ -13,6 +13,9 @@ References
 
 |
 
+Most of the methods below use *Self-Supervised Learning* for the stage of *Preprocessing*.
+
+
 Using model-based Reinforcement Learning
 ----------------------------------------
 
