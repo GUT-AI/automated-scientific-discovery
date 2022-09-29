@@ -30,6 +30,10 @@ Using model-based Reinforcement Learning
 Using Dynamical Systems
 -----------------------
 
+**2016**
+
+- `Kernel Learning for Dynamic Texture Synthesis <https://www.researchgate.net/profile/Shujian-Yu/publication/308772804_Kernel_Learning_for_Dynamic_Texture_Synthesis/links/5aa94130458515178818a7c7/Kernel-Learning-for-Dynamic-Texture-Synthesis.pdf>`_
+
 **2021**
 
 - `Discovering State Variables Hidden in Experimental Data <https://arxiv.org/pdf/2112.10755.pdf>`_
