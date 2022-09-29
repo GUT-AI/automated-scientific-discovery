@@ -30,4 +30,7 @@ Using Dynamical Systems
 **2021**
 
 - `Discovering State Variables Hidden in Experimental Data <https://arxiv.org/pdf/2112.10755.pdf>`_
+
+**2022**
+
 - `Automated discovery of fundamental variables hidden in experimental data. In Nature Computational Science <http://generalroboticslab.com/assets/files/NSV_paper.pdf>`_
