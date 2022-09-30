@@ -39,9 +39,14 @@ Using Dynamical Systems
 - `VideoBERT: A Joint Model for Video and Language Representation Learning <https://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_VideoBERT_A_Joint_Model_for_Video_and_Language_Representation_Learning_ICCV_2019_paper.pdf>`_
 - `Self-Supervised Learning by Cross-Modal Audio-Video Clustering <https://arxiv.org/pdf/1911.12667.pdf>`_
 
+**2020**
+
+- `Discovering physical concepts with neural networks <https://arxiv.org/pdf/1807.10300.pdf>`_
+
 **2021**
 
 - `Discovering State Variables Hidden in Experimental Data <https://arxiv.org/pdf/2112.10755.pdf>`_
+- `Nobel Turing Challenge: creating the engine for scientific discovery <https://www.nature.com/articles/s41540-021-00189-3.pdf>`_
 
 **2022**
 
