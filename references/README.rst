@@ -38,6 +38,7 @@ Using Dynamical Systems
 
 - `VideoBERT: A Joint Model for Video and Language Representation Learning <https://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_VideoBERT_A_Joint_Model_for_Video_and_Language_Representation_Learning_ICCV_2019_paper.pdf>`_
 - `Self-Supervised Learning by Cross-Modal Audio-Video Clustering <https://arxiv.org/pdf/1911.12667.pdf>`_
+- `Toward an AI Physicist for Unsupervised Learning <https://arxiv.org/pdf/1810.10525.pdf>`_
 
 **2020**
 
