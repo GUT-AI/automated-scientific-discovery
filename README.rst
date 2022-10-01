@@ -9,7 +9,7 @@ Automated Scientific Discovery
   :target: LICENSE
   :alt: License
 
-.. image:: https://img.shields.io/badge/DOI-10.31219%2Fosf.io%2Fnxzyr-blue
+.. image:: https://img.shields.io/badge/DOI-10.31219%2Fosf.io%2Fsdwp6-blue
   :target: CITATION.cff
   :alt: DOI
 
@@ -34,7 +34,7 @@ Main papers
 Selected publications
 ^^^^^^^^^^^^^^^^^^^^^
 
-- Kourouklides, I. (2022). Bayesian Deep Multi-Agent Multimodal Reinforcement Learning for Embedded Systems in Games, Natural Language Processing and Robotics. *OSF Preprints*. https://doi.org/10.31219/osf.io/sjrkh
+- Kourouklides, I. (2022). Bayesian Deep Multi-Agent Multimodal Reinforcement Learning for Embedded Systems in Games, Natural Language Processing and Robotics. *OSF Preprints*. https://doi.org/10.31219/osf.io/sdwp6
 
 References
 ^^^^^^^^^^
@@ -54,7 +54,7 @@ Thanks to OSF (by the `Center for Open Science <https://www.cos.io/>`_), the pro
 Component DOI
 ^^^^^^^^^^^^^
 
-**Project identifier:** https://doi.org/10.17605/OSF.IO/NXZYR
+**Project identifier:** https://doi.org/10.17605/OSF.IO/SDWP6
 
 Component dependencies
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -94,7 +94,7 @@ If you want to do so, feel free to `cite <CITATION.cff>`_ this component in your
       journal = {OSF Preprints},
       title = {Automated Scientific Discovery},
       year = {2022},
-      doi = {10.17605/osf.io/nxzyr},
+      doi = {10.17605/osf.io/sdwp6},
       license = {Creative Commons Zero CC0 1.0}
     }
 
