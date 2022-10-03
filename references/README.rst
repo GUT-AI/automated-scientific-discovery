@@ -58,4 +58,27 @@ Using Dynamical Systems
 Explainable AI (XAI)
 --------------------
 
-See `Continual Learning <https://github.com/GUT-AI/continual-learning/blob/master/references/README.rst>`_.
+See also `Awesome-explainable-AI <https://github.com/wangyongjie-ntu/Awesome-explainable-AI>`_ and `Awesome XAI <https://github.com/altamiracorp/awesome-xai>`_.
+
+**2018**
+
+- `Peeking inside the black-box: a survey on explainable artificial intelligence (XAI) <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8466590>`_
+- `Explaining Explanations: An Overview of Interpretability of Machine Learning <https://arxiv.org/pdf/1806.00069.pdf>`_
+
+**2019**
+
+- `Definitions, methods, and applications in interpretable machine learning <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6825274/pdf/pnas.201900654.pdf>`_
+- `Machine Learning Interpretability: A Survey on Methods and Metrics <https://www.mdpi.com/2079-9292/8/8/832>`_
+
+**2020**
+
+- `Explainable Reinforcement Learning: A Survey <https://arxiv.org/pdf/2005.06247.pdf>`_
+- `Explainable Machine Learning for Scientific Insights and Discoveries <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9007737>`_
+
+**2021**
+
+- `Principles and Practice of Explainable Machine Learning <https://www.frontiersin.org/articles/10.3389/fdata.2021.688969/full>`_
+
+**2022**
+
+- `A Survey of Explainable Reinforcement Learning <https://arxiv.org/pdf/2202.08434.pdf>`_
